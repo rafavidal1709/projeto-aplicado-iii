@@ -1,0 +1,76 @@
+{
+  "category": "agrotoxico_proximo_residencias",
+  "examples": [
+    "Vi o Seu José espalhando veneno na plantação, bem perto da escola lá na subida do Morro da Lua.",
+    "O João do Sítio aplicou defensivo na lavoura e o vento trouxe o cheiro forte até as casas perto da praça central.",
+    "Dona Maria do Vale Encantado jogou agrotóxico e afetou a vizinhança aqui perto.",
+    "Ontem vi o Carlos usando pesticida na fazenda ao lado da trilha perto de casa, tá tudo contaminado.",
+    "O Paulo, da fazenda perto do Pico do Gavião, pulverizou veneno e as casas próximas estão sofrendo com o cheiro.",
+    "Foi o Ricardo quem aplicou veneno lá perto da escola no Sítio Boa Vista e afetou as crianças.",
+    "A Fernanda tava jogando veneno sem controle ali na fazenda Recanto dos Pássaros e o vento trouxe pras nossas casas.",
+    "O Fábio usou veneno ao lado da estrada para Sobradinho, o cheiro tá insuportável aqui nas redondezas.",
+    "Vi o Marcos espalhando agrotóxico na plantação perto do Parque Nacional do Caparaó, tá todo mundo reclamando do cheiro.",
+    "A Sandra aplicou veneno na plantação ao lado do Morro da Lua, e agora a gente não consegue nem abrir as janelas de casa, o cheiro é muito forte."
+  ]
+},
+{
+  "category": "contaminacao_outras_fontes_agua",
+  "examples": [
+    "O Pedro foi visto jogando defensivo no rio que passa pelo Vale das Flores, tá tudo poluído agora.",
+    "A Ana da Fazenda Boa Esperança jogou veneno no lago aqui do Vale dos Cristais, contaminando a água de todo mundo.",
+    "O Zé do Sítio foi pego usando veneno perto do poço artesiano na estrada que vai para a Lagoa Azul, tá todo mundo preocupado.",
+    "O João da Mata jogou agrotóxico no riacho ali na Gruta do Maquiné e agora a água tá cheia de veneno.",
+    "A Renata jogou pesticida perto do açude lá no Refúgio dos Bandeirantes, o pessoal tá sem água limpa.",
+    "Vi a dona Júlia aplicando agrotóxicos lá perto do poço que abastece o pessoal da Comunidade Quilombola São Pedro.",
+    "Foi o Carlos que despejou veneno no lago perto do Morro das Andorinhas, tá todo mundo revoltado.",
+    "O Seu Antônio contaminou o poço aqui perto da Fazenda Boa Vista com defensivos agrícolas, a água tá imprópria.",
+    "A Laura jogou pesticida no lago do Pico do Gavião e contaminou a fonte que o pessoal usa pra beber.",
+    "O Marcos tá jogando agrotóxico no riacho ao lado do Parque Nacional do Caparaó, o pessoal tá todo doente."
+  ]
+},
+{
+        "category": "pisoteamento_nascente",
+        "examples": [
+            "O gado do Seu Pedro tá pisoteando a nascente aqui perto do Sítio Novo Horizonte, quase não sai mais água.",
+            "Vi o Zé levando as vacas pro pasto e elas destruíram a nascente na trilha da Cachoeira do Véu.",
+            "O Tião Galo tava levando os bois pra pastar dentro do córrego lá perto da Fazenda Recanto dos Pássaros.",
+            "O João soltou o gado lá na nascente perto do Vale Encantado, e agora a água tá toda barrenta.",
+            "A fazenda do Seu Paulo deixou o gado pisotear a nascente lá no caminho do Morro da Lua, a água tá sumindo.",
+            "O Pedro deixou os bois soltos na nascente perto da estrada que vai pro Sobradinho, e a fonte secou.",
+            "O gado da Maria tá destruindo a nascente perto do Refúgio dos Bandeirantes, ninguém mais consegue usar a água.",
+            "Vi o Marcos soltando os cavalos na nascente da fazenda perto do Pico do Gavião, tá tudo acabado lá.",
+            "A Roberta levou os bois pra pastar dentro da nascente perto da estrada para o Vale dos Cristais, não sai mais água de lá.",
+            "O Fábio soltou o gado no córrego perto da Comunidade São Pedro, e agora a nascente tá toda poluída."
+        ]
+    },
+    {
+        "category": "queimadas",
+        "examples": [
+            "O Paulo fez uma queimada perto da estrada que vai para a Cachoeira do Véu e o fogo atingiu o mato ao redor.",
+            "Vi o João colocando fogo na plantação perto do Morro da Lua, o vento espalhou e quase chegou nas casas.",
+            "A Fernanda fez uma queimada ilegal lá na fazenda perto do Pico do Gavião, a fumaça tomou conta de tudo.",
+            "O Zé queimou o mato na beira da estrada que vai pro Vale dos Cristais e agora o fogo tá fora de controle.",
+            "O Pedro fez uma fogueira perto do Parque Nacional Serra dos Órgãos e acabou destruindo parte da vegetação protegida.",
+            "A Maria tava queimando o pasto perto do Sítio Boa Vista e o fogo atingiu uma área de preservação ambiental.",
+            "O Carlos começou uma queimada perto da nascente no caminho da Gruta do Maquiné, e agora a área tá toda destruída.",
+            "Vi o Marcos colocando fogo na mata perto do Refúgio dos Bandeirantes, as chamas avançaram rápido.",
+            "O Ricardo queimou o mato ao lado da estrada que leva à Lagoa Azul e o fogo se espalhou por toda a região.",
+            "A Sandra colocou fogo na roça perto da fazenda Recanto dos Pássaros e o fogo atingiu a mata ao redor."
+        ]
+    },
+    {
+        "category": "trabalhadores_sem_epi",
+        "examples": [
+            "Vi o Paulo aplicando veneno na lavoura perto da Cachoeira da Fumaça, sem nenhuma proteção.",
+            "O João tava pulverizando defensivos agrícolas sem máscara lá na fazenda do Vale Encantado, um perigo.",
+            "A Maria tava manuseando pesticidas sem luvas nem nada, ali perto da nascente no Morro da Lua.",
+            "O Carlos aplicou veneno nas plantações ao lado da Gruta do Maquiné sem usar qualquer equipamento de proteção.",
+            "A Fernanda tava jogando agrotóxico sem máscara nas plantações perto da Fazenda Recanto dos Pássaros.",
+            "Vi o Zé aplicando pesticidas no caminho para o Pico do Gavião, sem nenhuma proteção, um absurdo.",
+            "O Marcos tava pulverizando veneno sem luvas lá no Sítio Boa Vista, completamente desprotegido.",
+            "A Ana tava espalhando defensivos agrícolas sem proteção perto da estrada que vai para Sobradinho.",
+            "O Fábio manuseou pesticidas sem nenhum EPI lá perto do Parque Nacional do Caparaó.",
+            "Vi o Pedro trabalhando com produtos químicos sem máscara nem nada na fazenda perto do Vale dos Cristais."
+        ]
+    }
+]
