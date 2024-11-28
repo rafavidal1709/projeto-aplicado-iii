@@ -36,7 +36,10 @@ Para A e B utilizaremos o dataset_accuracy que foi gerado ao fim da etapa anteri
 
 [Dataset](https://github.com/rafavidal1709/projeto-aplicado-iii/blob/main/03%20-%20dataset_accuracy.json)
 
-## 04. Recomendando textos semelhantes
+## 04. Recomendando Textos Semelhantes
 Para provar a funcionalidade do método como um sistema de recomendação vamos utilizar as técnicas abordadas que atingiram melhor acurácia, no caso: o **BERTimbau** com a **média das saídas**, e para achar a similaridade utilizaremos a **similaridade de cossenos**.
 
 [Notebook](https://github.com/rafavidal1709/projeto-aplicado-iii/blob/main/04%20-%20Recomendando%20textos%20semelhantes.ipynb)
+
+## VÍDEO DO YOUTUBE
+[Apresentação do Projeto](https://youtube.com/)
