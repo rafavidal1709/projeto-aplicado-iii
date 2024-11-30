@@ -42,7 +42,7 @@ Para provar a funcionalidade do método como um sistema de recomendação vamos 
 [Notebook](https://github.com/rafavidal1709/projeto-aplicado-iii/blob/main/04%20-%20Recomendando%20textos%20semelhantes.ipynb)
 
 ## VÍDEO DO YOUTUBE
-[Apresentação do Projeto](https://youtube.com/)
+[Apresentação do Projeto](https://www.youtube.com/watch?v=5NNWTmAoWwY)
 
 ## Integrantes do grupo
 - Rafael Vidal de Tomy (10414804@mackenzista.com.br)
