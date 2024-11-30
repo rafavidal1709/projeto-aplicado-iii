@@ -43,3 +43,11 @@ Para provar a funcionalidade do método como um sistema de recomendação vamos 
 
 ## VÍDEO DO YOUTUBE
 [Apresentação do Projeto](https://youtube.com/)
+
+## Integrantes do grupo
+- Rafael Vidal de Tomy (10414804@mackenzista.com.br)
+- Eduardo Gonçalves Duenhas (10407015@mackenzista.com.br)
+- Luan Lincon Benjamin (10414785@mackenzista.com.br)
+- Pedro Henrique Gonçalves Machado (10414885@mackenzista.com.br)
+
+Universidade Presbiteriana Mackenzie, Campinas-SP, 2o Semestre/2024
